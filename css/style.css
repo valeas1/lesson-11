@@ -304,9 +304,6 @@ body {
 .search__why-card:hover {
   background-color: #DCE3DD;
 }
-.search__why-card:hover > .search__why-card-text {
-  display: block;
-}
 .search__why-card--02 {
   background-image: url(../img/card-pic-02.svg);
 }

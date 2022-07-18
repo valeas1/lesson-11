@@ -290,9 +290,6 @@ body {
         &-card:hover {
             background-color: #DCE3DD;
         }
-        &-card:hover > &-card-text {
-            display: block;
-        }
         &-card--02 {
             background-image: url(../img/card-pic-02.svg);
         }
